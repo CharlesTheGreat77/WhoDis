@@ -29,5 +29,6 @@ If this appears when running, try these solutions:
 
 # usage
 ```
+pip3 install -r requirements.txt
 $ python3 WhoDis.py
 ```
